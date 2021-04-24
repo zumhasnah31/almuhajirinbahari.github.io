@@ -1,0 +1,73 @@
+ul.navbar-nav li.nav-item a.nav-link {
+	color: white;
+	font-weight: bold;
+}
+
+section.satu {
+	margin-top: 100px;
+}
+
+section.satu h5 {
+	color: yellow;
+}
+
+section.satu h1 {
+	color: navy;
+	font-weight: bold;
+}
+
+section.satu button {
+	background-color: navy;
+	color: white;
+	border-radius: 5px;
+	font-weight: bold;
+}
+
+section.satu img{
+	width: 300px;
+	height: 400px;
+	margin-left: 50px;
+	box-shadow: 5px 5px 5px black; 
+	border-radius: 5px;
+}
+
+section.dua{
+	margin-top: 100px;
+}
+
+section.dua h2{
+	color: navy;
+	font-weight: bold;
+	text-align: center;
+}
+
+.card {
+	border-radius: 5px;
+	box-shadow: 10px 5px 10px black;
+}
+section.dua img {
+	width: 100px;
+	height: 165px;
+	margin: auto;
+	padding-top: 50px;
+}
+
+section.tiga {
+	height: 200px;
+	margin-top: 100px;
+}
+section.tiga h4{
+	font-weight: bold;
+	text-align: left;
+	margin-left: 50px;
+	margin-top: 50px;
+}
+
+/*section.tiga u{
+	color: yellow;
+}*/
+section.tiga img{
+	width: 20px;
+	height: 20px;
+	margin-right: 10px;
+}
